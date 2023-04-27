@@ -1,0 +1,37 @@
+root@kali:~# dnsenum yemenmobile.com.ye
+dnsenum.pl VERSION:1.2.3
+
+-----   yemenmobile.com.ye   -----
+
+
+Host's addresses:
+__________________
+
+yemenmobile.com.ye.                      5        IN    A        67.227.176.74
+
+
+Name Servers:
+______________
+
+ns2.yemen.net.ye.                        5        IN    A        65.162.184.34
+ns1.yemen.net.ye.                        5        IN    A        65.162.184.33
+
+
+Mail (MX) Servers:
+___________________
+
+smtp.yemenmobile.com.ye.                 5        IN    A        82.114.166.234
+
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+
+Trying Zone Transfer for yemenmobile.com.ye on ns1.yemen.net.ye ... 
+AXFR record query failed: RCODE from server: REFUSED
+
+Trying Zone Transfer for yemenmobile.com.ye on ns2.yemen.net.ye ... 
+AXFR record query failed: RCODE from server: REFUSED
+
+brute force file not specified, bay.
+root@kali:~# 

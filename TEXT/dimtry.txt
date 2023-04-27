@@ -1,0 +1,264 @@
+root@kali:~# dmitry  yemenmobile.com.ye
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+HostIP:67.227.176.74
+HostName:yemenmobile.com.ye
+
+Gathered Inet-whois information for 67.227.176.74
+---------------------------------
+
+inetnum:        67.219.0.0 - 67.231.175.255
+netname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr:          IPv4 address block not managed by the RIPE NCC
+remarks:        ------------------------------------------------------
+remarks:
+remarks:        For registration information,
+remarks:        you can consult the following sources:
+remarks:
+remarks:        IANA
+remarks:        http://www.iana.org/assignments/ipv4-address-space
+remarks:        http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks:        http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks:        AFRINIC (Africa)
+remarks:        http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks:        APNIC (Asia Pacific)
+remarks:        http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks:        ARIN (Northern America)
+remarks:        http://www.arin.net/ whois.arin.net
+remarks:
+remarks:        LACNIC (Latin America and the Carribean)
+remarks:        http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks:        ------------------------------------------------------
+country:        EU # Country is really world wide
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2021-08-04T12:26:38Z
+last-modified:  2021-08-04T12:26:38Z
+source:         RIPE
+
+role:           Internet Assigned Numbers Authority
+address:        see http://www.iana.org.
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+nic-hdl:        IANA1-RIPE
+remarks:        For more information on IANA services
+remarks:        go to IANA web site at http://www.iana.org.
+mnt-by:         RIPE-NCC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:27Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.102.2 (WAGYU)
+
+
+
+Gathered Inic-whois information for yemenmobile.com.ye
+---------------------------------
+Error: Unable to connect - Invalid Host
+ERROR: Connection to InicWhois Server ye.whois-servers.net failed
+close error
+
+Gathered Netcraft information for yemenmobile.com.ye
+---------------------------------
+
+Retrieving Netcraft.com information for yemenmobile.com.ye
+Netcraft.com Information gathered
+
+Gathered Subdomain information for yemenmobile.com.ye
+---------------------------------
+Searching Google.com:80...
+HostName:www.yemenmobile.com.ye
+HostIP:67.227.176.74
+HostName:mail.yemenmobile.com.ye
+HostIP:82.114.166.200
+Searching Altavista.com:80...
+Found 2 possible subdomain(s) for host yemenmobile.com.ye, Searched 0 pages containing 0 results
+
+Gathered E-Mail information for yemenmobile.com.ye
+---------------------------------
+Searching Google.com:80...
+Searching Altavista.com:80...
+Found 0 E-Mail(s) for host yemenmobile.com.ye, Searched 0 pages containing 0 results
+
+Gathered TCP Port information for 67.227.176.74
+---------------------------------
+
+ Port		State
+
+21/tcp		open
+26/tcp		open
+53/tcp		open
+80/tcp		open
+143/tcp		open
+
+Portscan Finished: Scanned 150 ports, 0 ports were in state closed
+
+
+All scans completed, exiting
+root@kali:~# 
+___________________________________________________________________________________________
+root@kali:~# dmitry -winsepfb yemenmobile.com.ye
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+HostIP:67.227.176.74
+HostName:yemenmobile.com.ye
+
+Gathered Inet-whois information for 67.227.176.74
+---------------------------------
+
+inetnum:        67.219.0.0 - 67.231.175.255
+netname:        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr:          IPv4 address block not managed by the RIPE NCC
+remarks:        ------------------------------------------------------
+remarks:
+remarks:        For registration information,
+remarks:        you can consult the following sources:
+remarks:
+remarks:        IANA
+remarks:        http://www.iana.org/assignments/ipv4-address-space
+remarks:        http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks:        http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks:        AFRINIC (Africa)
+remarks:        http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks:        APNIC (Asia Pacific)
+remarks:        http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks:        ARIN (Northern America)
+remarks:        http://www.arin.net/ whois.arin.net
+remarks:
+remarks:        LACNIC (Latin America and the Carribean)
+remarks:        http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks:        ------------------------------------------------------
+country:        EU # Country is really world wide
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2021-08-04T12:26:38Z
+last-modified:  2021-08-04T12:26:38Z
+source:         RIPE
+
+role:           Internet Assigned Numbers Authority
+address:        see http://www.iana.org.
+admin-c:        IANA1-RIPE
+tech-c:         IANA1-RIPE
+nic-hdl:        IANA1-RIPE
+remarks:        For more information on IANA services
+remarks:        go to IANA web site at http://www.iana.org.
+mnt-by:         RIPE-NCC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:27Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.102.2 (ANGUS)
+
+
+
+Gathered Inic-whois information for yemenmobile.com.ye
+---------------------------------
+Error: Unable to connect - Invalid Host
+ERROR: Connection to InicWhois Server ye.whois-servers.net failed
+close error
+
+Gathered Netcraft information for yemenmobile.com.ye
+---------------------------------
+
+Retrieving Netcraft.com information for yemenmobile.com.ye
+Netcraft.com Information gathered
+
+Gathered Subdomain information for yemenmobile.com.ye
+---------------------------------
+Searching Google.com:80...
+HostName:www.yemenmobile.com.ye
+HostIP:67.227.176.74
+HostName:mail.yemenmobile.com.ye
+HostIP:82.114.166.200
+Searching Altavista.com:80...
+Found 2 possible subdomain(s) for host yemenmobile.com.ye, Searched 0 pages containing 0 results
+
+Gathered E-Mail information for yemenmobile.com.ye
+---------------------------------
+Searching Google.com:80...
+Searching Altavista.com:80...
+Found 0 E-Mail(s) for host yemenmobile.com.ye, Searched 0 pages containing 0 results
+
+Gathered TCP Port information for 67.227.176.74
+---------------------------------
+
+ Port		State
+
+1/tcp		filtered
+2/tcp		filtered
+3/tcp		filtered
+4/tcp		filtered
+5/tcp		filtered
+6/tcp		filtered
+7/tcp		filtered
+8/tcp		filtered
+9/tcp		filtered
+10/tcp		filtered
+11/tcp		filtered
+12/tcp		filtered
+13/tcp		filtered
+14/tcp		filtered
+15/tcp		filtered
+16/tcp		filtered
+17/tcp		filtered
+18/tcp		filtered
+19/tcp		filtered
+20/tcp		filtered
+21/tcp		open
+>> 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 2C��J
+22/tcp		filtered
+23/tcp		filtered
+24/tcp		filtered
+25/tcp		filtered
+26/tcp		open
+>> 220-host.dotmedia-ye.com ESMTP Exim 4.94.2 #2 Wed, 22 Dec 2021 22:01:44 +0300 
+220-We do not authorize the use of this system tC��J
+27/tcp		filtered
+28/tcp		filtered
+29/tcp		filtered
+30/tcp		filtered
+31/tcp		filtered
+32/tcp		filtered
+33/tcp		filtered
+34/tcp		filtered
+35/tcp		filtered
+36/tcp		filtered
+37/tcp		filtered
+38/tcp		filtered
+39/tcp		filtered
+40/tcp		filtered
+41/tcp		filtered
+42/tcp		filtered
+43/tcp		filtered
+44/tcp		filtered
+45/tcp		filtered
+46/tcp		filtered
+47/tcp		filtered
+48/tcp		filtered
+49/tcp		filtered
+50/tcp		filtered
+51/tcp		filtered
+52/tcp		filtered
+53/tcp		open
+
+Portscan Finished: Scanned 150 ports, 96 ports were in state closed
+
+
+All scans completed, exiting
+root@kali:~# 

@@ -1,0 +1,24 @@
+root@kali:~# dnsmap yemenmobile.com.ye
+dnsmap 0.30 - DNS Network Mapper by pagvac (gnucitizen.org)
+
+[+] searching (sub)domains for yemenmobile.com.ye using built-in wordlist
+[+] using maximum random delay of 10 millisecond(s) between requests
+
+mail.yemenmobile.com.ye
+IP address #1: 82.114.166.200
+
+services.yemenmobile.com.ye
+IP address #1: 82.114.183.239
+
+sms.yemenmobile.com.ye
+IP address #1: 82.114.168.238
+
+smtp.yemenmobile.com.ye
+IP address #1: 82.114.166.234
+
+www.yemenmobile.com.ye
+IP address #1: 67.227.176.74
+
+[+] 5 (sub)domains and 5 IP address(es) found
+[+] completion time: 1126 second(s)
+root@kali:~# 
